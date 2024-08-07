@@ -1,0 +1,11 @@
+C:\Users\GATMEN\source\repos\POSInventoryVb\POSInventoryVb\obj\Debug\net5.0-windows\POSInventoryVb.vbproj.AssemblyReference.cache
+C:\Users\GATMEN\source\repos\POSInventoryVb\POSInventoryVb\obj\Debug\net5.0-windows\POSInventoryVb.Customer.resources
+C:\Users\GATMEN\source\repos\POSInventoryVb\POSInventoryVb\obj\Debug\net5.0-windows\POSInventoryVb.LoginF.resources
+C:\Users\GATMEN\source\repos\POSInventoryVb\POSInventoryVb\obj\Debug\net5.0-windows\POSInventoryVb.Resources.resources
+C:\Users\GATMEN\source\repos\POSInventoryVb\POSInventoryVb\obj\Debug\net5.0-windows\POSInventoryVb.Product.resources
+C:\Users\GATMEN\source\repos\POSInventoryVb\POSInventoryVb\obj\Debug\net5.0-windows\POSInventoryVb.Users.resources
+C:\Users\GATMEN\source\repos\POSInventoryVb\POSInventoryVb\obj\Debug\net5.0-windows\POSInventoryVb.vbproj.GenerateResource.cache
+C:\Users\GATMEN\source\repos\POSInventoryVb\POSInventoryVb\obj\Debug\net5.0-windows\POSInventoryVb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GATMEN\source\repos\POSInventoryVb\POSInventoryVb\obj\Debug\net5.0-windows\POSInventoryVb.AssemblyInfoInputs.cache
+C:\Users\GATMEN\source\repos\POSInventoryVb\POSInventoryVb\obj\Debug\net5.0-windows\POSInventoryVb.AssemblyInfo.vb
+C:\Users\GATMEN\source\repos\POSInventoryVb\POSInventoryVb\obj\Debug\net5.0-windows\POSInventoryVb.vbproj.CoreCompileInputs.cache

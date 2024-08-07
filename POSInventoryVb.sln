@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "POSInventoryVb", "POSInventoryVb\POSInventoryVb.vbproj", "{3408A6AA-65E7-47D4-BB06-3C6FED75A0FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3408A6AA-65E7-47D4-BB06-3C6FED75A0FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3408A6AA-65E7-47D4-BB06-3C6FED75A0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3408A6AA-65E7-47D4-BB06-3C6FED75A0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3408A6AA-65E7-47D4-BB06-3C6FED75A0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F7A4EE4-9F00-4E40-B798-5860196A0427}
+	EndGlobalSection
+EndGlobal
